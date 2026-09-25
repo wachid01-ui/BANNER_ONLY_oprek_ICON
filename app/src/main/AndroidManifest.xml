@@ -13,8 +13,8 @@
     android:allowBackup="true"
     android:label="@string/app_name"
     android:supportsRtl="true"
-    android:theme="@style/Theme.RadioKu">
-    android:icon="@drawable/radio_icon"
+    android:theme="@style/Theme.RadioKu"
+    android:icon="@drawable/radio_icon">
        
     <meta-data
         android:name="com.google.android.gms.ads.APPLICATION_ID"
